@@ -1,0 +1,15 @@
+C:\Users\12999516\Desktop\sad\es\es\bin\Debug\net6.0\es.exe
+C:\Users\12999516\Desktop\sad\es\es\bin\Debug\net6.0\es.deps.json
+C:\Users\12999516\Desktop\sad\es\es\bin\Debug\net6.0\es.runtimeconfig.json
+C:\Users\12999516\Desktop\sad\es\es\bin\Debug\net6.0\es.dll
+C:\Users\12999516\Desktop\sad\es\es\bin\Debug\net6.0\es.pdb
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.csproj.AssemblyReference.cache
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.AssemblyInfoInputs.cache
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.AssemblyInfo.cs
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.csproj.CoreCompileInputs.cache
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.dll
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\refint\es.dll
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.pdb
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\es.genruntimeconfig.cache
+C:\Users\12999516\Desktop\sad\es\es\obj\Debug\net6.0\ref\es.dll
